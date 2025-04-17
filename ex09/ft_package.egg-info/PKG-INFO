@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: ft_package
+Version: 0.0.1
+Summary: A sample test package
+Home-page: https://github.com/ylamkhan/ft_package
+Author: youssef
+Author-email: ylamkhan@student.1337.ma
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# ft_package
+
+This is a simple Python package that counts occurrences of an item in a list.
